@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[62012,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js","/journal-club/open-weight-llms/_next/static/chunks/04hbffwxp6r7i.js"],"default"]
+3:I[72776,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js","/journal-club/open-weight-llms/_next/static/chunks/04hbffwxp6r7i.js"],"default"]
+4:I[97367,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+:HL["/journal-club/open-weight-llms/_next/static/chunks/14hmiimz7ufaj.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"common-module__pY5Tcq__hero","children":[["$","h1",null,{"className":"common-module__pY5Tcq__heroTitle","children":"Efficiency Frontier"}],["$","p",null,{"className":"common-module__pY5Tcq__heroDescription","children":"Parameter count vs performance — where are the diminishing returns?"}]]}],["$","$L2",null,{}],["$","$L3",null,{"currentPage":13}]],[["$","link","0",{"rel":"stylesheet","href":"/journal-club/open-weight-llms/_next/static/chunks/14hmiimz7ufaj.css","precedence":"next"}],["$","script","script-0",{"src":"/journal-club/open-weight-llms/_next/static/chunks/04hbffwxp6r7i.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SCsNvlnVMY5yCN46TvLdR"}
+6:null

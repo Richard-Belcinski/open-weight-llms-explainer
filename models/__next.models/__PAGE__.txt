@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[78959,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js","/journal-club/open-weight-llms/_next/static/chunks/0jbb_zqng.tmi.js"],"default"]
+3:I[72776,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js","/journal-club/open-weight-llms/_next/static/chunks/0jbb_zqng.tmi.js"],"default"]
+4:I[97367,["/journal-club/open-weight-llms/_next/static/chunks/01xlw8hd842-c.js","/journal-club/open-weight-llms/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+:HL["/journal-club/open-weight-llms/_next/static/chunks/14hmiimz7ufaj.css","style"]
+:HL["/journal-club/open-weight-llms/_next/static/chunks/00zrby4wgw455.css","style"]
+:HL["/journal-club/open-weight-llms/_next/static/chunks/0vpv1u5.0kozp.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","div",null,{"className":"common-module__pY5Tcq__hero","children":[["$","h1",null,{"className":"common-module__pY5Tcq__heroTitle","children":"The 15 Models Tested"}],["$","p",null,{"className":"common-module__pY5Tcq__heroDescription","children":"From 685B DeepSeek R1 to 1.5B Qwen — across 5 size categories including 3 medical-specialized models"}]]}],["$","$L2",null,{}],["$","$L3",null,{"currentPage":2}]],[["$","link","0",{"rel":"stylesheet","href":"/journal-club/open-weight-llms/_next/static/chunks/14hmiimz7ufaj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/journal-club/open-weight-llms/_next/static/chunks/00zrby4wgw455.css","precedence":"next"}],["$","link","2",{"rel":"stylesheet","href":"/journal-club/open-weight-llms/_next/static/chunks/0vpv1u5.0kozp.css","precedence":"next"}],["$","script","script-0",{"src":"/journal-club/open-weight-llms/_next/static/chunks/0jbb_zqng.tmi.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"SCsNvlnVMY5yCN46TvLdR"}
+6:null
