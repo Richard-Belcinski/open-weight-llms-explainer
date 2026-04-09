@@ -1,11 +1,11 @@
 1:"$Sreact.fragment"
 2:I[47257,["/open-weight-llms-explainer/_next/static/chunks/01xlw8hd842-c.js","/open-weight-llms-explainer/_next/static/chunks/0d3shmwh5_nmn.js"],"ClientPageRoot"]
-3:I[13332,["/open-weight-llms-explainer/_next/static/chunks/01xlw8hd842-c.js","/open-weight-llms-explainer/_next/static/chunks/0d3shmwh5_nmn.js","/open-weight-llms-explainer/_next/static/chunks/0tkhkdtr0.ibh.js"],"default"]
+3:I[13332,["/open-weight-llms-explainer/_next/static/chunks/01xlw8hd842-c.js","/open-weight-llms-explainer/_next/static/chunks/0d3shmwh5_nmn.js","/open-weight-llms-explainer/_next/static/chunks/0orubavl98_rc.js"],"default"]
 6:I[97367,["/open-weight-llms-explainer/_next/static/chunks/01xlw8hd842-c.js","/open-weight-llms-explainer/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
 :HL["/open-weight-llms-explainer/_next/static/chunks/14hmiimz7ufaj.css","style"]
 :HL["/open-weight-llms-explainer/_next/static/chunks/00zrby4wgw455.css","style"]
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/open-weight-llms-explainer/_next/static/chunks/14hmiimz7ufaj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/open-weight-llms-explainer/_next/static/chunks/00zrby4wgw455.css","precedence":"next"}],["$","script","script-0",{"src":"/open-weight-llms-explainer/_next/static/chunks/0tkhkdtr0.ibh.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"s9GnOf9rEGjGiGOak6Odz"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/open-weight-llms-explainer/_next/static/chunks/14hmiimz7ufaj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/open-weight-llms-explainer/_next/static/chunks/00zrby4wgw455.css","precedence":"next"}],["$","script","script-0",{"src":"/open-weight-llms-explainer/_next/static/chunks/0orubavl98_rc.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"HSGT54gGPbxKKUNoPBckm"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
